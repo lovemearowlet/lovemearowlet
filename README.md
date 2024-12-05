@@ -3,6 +3,7 @@
 - im learning c and c++
 - im trying out rust aswell cuz ppl said it was good. i dont like it
 - i also trying other random langs
+- suggestions and advice are very much welcome
 
 <!---
 lovemearowlet/lovemearowlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
