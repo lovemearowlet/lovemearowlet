@@ -1,6 +1,10 @@
 ! xterm
 xterm*faceName: Monospace
 xterm*faceSize: 12
+xterm*VT100.Translations: #override \
+                 Ctrl Shift <Key>V:    insert-selection(CLIPBOARD) \n\
+                 Ctrl Shift <Key>C:    copy-selection(CLIPBOARD)
+
 ! XTerm*visualBell: true
 
 ! special
@@ -39,3 +43,4 @@ xterm*faceSize: 12
 ! white
 *.color7:       #dddddd
 *.color15:      #dddddd
+
