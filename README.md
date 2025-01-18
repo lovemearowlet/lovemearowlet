@@ -1,4 +1,4 @@
-- i am miildly ok at coding and like C, Go and Odin the most so far, out of them go is my fav
+- i am miildly ok at coding and like C, Go and Odin the most so far, out of them C is my fav
 - my fav lang syntax is Odin
 - i use gentoo linux btw
 - im self teaching my self Go, Odin, C, and am trying Zig. 
