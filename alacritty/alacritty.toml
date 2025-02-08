@@ -1,0 +1,32 @@
+
+[font]
+size = 7.25
+
+[font.bold]
+family = "Hack"
+
+[font.italic]
+family = "Hack"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[window]
+opacity = 1
+dynamic_padding = true
+
+[colors.primary]
+
+background = "#1e1e1e"
+foreground  = "#e0e5ee"
+
+[colors.normal]
+
+magenta = "#7a46b1"
+yellow = "#dfd73a"
+red = "#af1f1f"
+green = "#4a9338"
+blue = "#295ac5"
+cyan = "#2ea1ac"
+white = "#e0e5ee"
