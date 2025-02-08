@@ -1,6 +1,6 @@
 - i am miildly ok at coding and like C, Go and Lua the most so far, out of them C is my fav
 - my fav lang syntax is Go
-- i use gentoo linux btw
+- i used to use gentoo linux btw (now on suse)
 - i hate rust
 - i also trying other random langs
 - suggestions and advice are very much welcome
