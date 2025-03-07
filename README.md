@@ -1,10 +1,10 @@
 - i am miildly ok at coding and like C, Go and Lua the most so far, out of them C is my fav
 - my fav lang syntax is Go
-- i used to use gentoo linux btw (now on suse)
+- i use lfs (linux from scratch)
 - i hate rust
 - i also trying other random langs
 - suggestions and advice are very much welcome
-- current setup: Gentoo Linux, XFCE, LightDM/Startx, Screengrab, Vim/Zed
+- current setup: lfs, dwm, urxvt, dmenu, startx
 
 <!---
 lovemearowlet/lovemearowlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
